@@ -1,6 +1,6 @@
 # github-demo
-practice repo
+Practice 
 <br>
-hello i am shreyash dheple
+<b>Hello i am Shreyash Dheple</b>
 <br> 
-this is to practice git 
+This is to practice git commands and to get comfortable with it
