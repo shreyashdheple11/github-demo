@@ -1,0 +1,14 @@
+{
+    "customFileOrder.rules": {
+        "/workspaces/github-demo": {
+            "order": [
+                "index.html",
+                "README.md",
+                "script.js",
+                "local repo",
+                ".vscode"
+            ],
+            "type": "manual"
+        }
+    }
+}
